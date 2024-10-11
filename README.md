@@ -2,6 +2,9 @@
 
 This is a full-stack employee registration system built using React.js on the client side and Node.js on the server side. The application is integrated with Firebase Admin SDK to handle data storage, file uploads, and user authentication.
 
+## Deployed App Link
+https://code-tribe-employee-ptsuvfwt5-asiphile1s-projects.vercel.app
+
 ## Table of Contents
 
 * Project Overview
